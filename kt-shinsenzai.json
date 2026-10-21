@@ -1,6 +1,7 @@
 {
  "work": "新千載和歌集",
  "work_id": "kt-shinsenzai",
+ "repo": "kumoi-no-fumigura/shinsenzai-wakashu",
  "yomi": "しんせんざいわかしゅう",
  "category": "勅撰集",
  "kind": "kashu",
@@ -28389,6 +28390,5 @@
    "text": "古にやゝたちまさる御たからの新居のさとは賑ひにけり",
    "sachu": ""
   }
- ],
- "repo": "kumoi-no-fumigura/shinsenzai-wakashu"
+ ]
 }
